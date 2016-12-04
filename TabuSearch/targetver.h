@@ -1,8 +1,17 @@
 #pragma once
 
-// Including SDKDDKVer.h defines the highest available Windows platform.
+#include "targetver.h"
 
-// If you wish to build your application for a previous Windows platform, include WinSDKVer.h and
-// set the _WIN32_WINNT macro to the platform you wish to support before including SDKDDKVer.h.
+using namespace std;
 
-#include <SDKDDKVer.h>
+#include <stdio.h>
+#include <tchar.h>
+#include <vector>
+#include <iostream>
+#include <conio.h>
+#include <ctime>
+#include <fstream>
+#include <cstdlib>
+#include <cmath>
+#include <iomanip>
+#include <algorithm> 
